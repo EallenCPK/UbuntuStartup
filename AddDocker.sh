@@ -27,3 +27,6 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 
 # Add permission 
 sudo chmod 666 /var/run/docker.sock
+
+# Add docker-compose
+sudo apt install docker-compose
