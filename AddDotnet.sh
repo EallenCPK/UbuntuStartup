@@ -18,3 +18,4 @@ sudo apt-get update; \
   sudo apt-get install -y aspnetcore-runtime-6.0
 # Replace last line with this if you dont want .net core
 ### sudo apt-get install -y dotnet-runtime-6.0
+###
