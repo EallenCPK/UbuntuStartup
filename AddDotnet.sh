@@ -1,3 +1,4 @@
+#!/bin/bash
 ### https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu#2004-
 
 # Install needed packages
